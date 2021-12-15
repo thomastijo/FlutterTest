@@ -1,0 +1,13 @@
+const VAlID_ALL_ERROR="Please correct one or more error";
+const FIRST_NAME="First Name";
+const LAST_NAME="Last Name";
+const EMAIL="Email";
+const PHONE_NUMBER="Phone Number";
+const REFERAL_CODE="Referral Code";
+const OPTINAL="optional";
+const CANCEL="Cancel";
+const REGISTER_FOR_LOft="Register for Loft";
+const PERSONAL_INFO="Personal Info";
+const BYINFO="By join, I agree to lofts";
+const TERMS="Terms & conditions";
+const NEXT="Next";
